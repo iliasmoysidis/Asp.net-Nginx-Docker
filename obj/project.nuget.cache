@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HfHs3PdWAPk27tRYB/D6FHX1cJFaqG/2XarhylGNOROtS8k/YAaBWDdqPfSPNOx04wAZgPVG4cJ9x8FznxYpjw==",
+  "success": true,
+  "projectFilePath": "/home/ilias/VSCodeProjects/Asp.net-Nginx-Docker/Asp.net-Nginx-Docker.csproj",
+  "expectedPackageFiles": [
+    "/home/ilias/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/ilias/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/ilias/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/ilias/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/ilias/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/ilias/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
